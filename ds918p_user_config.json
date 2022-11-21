@@ -1,1 +1,12 @@
-e
+{
+    "extra_cmdline": {
+        "pid": "0x557D",
+        "vid": "0x0781",
+        "sn": "VO6ZH5WTFOF4J",
+        "mac1": "021132292EE8",
+        "mac2": "021132268841"
+    },
+    "synoinfo": {},
+    "ramdisk_copy": {},
+    "extensions": []
+}
